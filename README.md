@@ -462,36 +462,60 @@ Date Time (java.time) (**JSR 310**, **JEP 150**): https://jcp.org/en/jsr/detail?
 
 Java 7 language specification: https://docs.oracle.com/javase/specs/jls/se7/html/index.html
 
-JVM
-New Opcode INVOKEDYNAMIC (JSR 292)
-Language
-Switch on String (JSR 334)
-Try-with (JSR 334)
-Diamond Operator (JSR 334)
-Binary Integer Literals (JSR 334)
-Underscores in numeric literals (JSR 334)
-Multi Catch (JSR 334)
-API
-Method Handles (JSR 292)
-NIO.2 (java.nio.file) (JSR 203)
+### 15.1. JVM
+
+New Opcode INVOKEDYNAMIC (**JSR 292**): https://jcp.org/en/jsr/detail?id=292
+
+### 15.2. Language
+
+Switch on String (**JSR 334**): https://jcp.org/en/jsr/detail?id=334
+
+Try-with (**JSR 334**): https://jcp.org/en/jsr/detail?id=334
+
+Diamond Operator (**JSR 334**): https://jcp.org/en/jsr/detail?id=334
+
+Binary Integer Literals (**JSR 334**): https://jcp.org/en/jsr/detail?id=334
+
+Underscores in numeric literals (**JSR 334**): https://jcp.org/en/jsr/detail?id=334
+
+Multi Catch (**JSR 334**): https://jcp.org/en/jsr/detail?id=334
+
+### 15.3. API
+
+Method Handles (**JSR 292**): https://jcp.org/en/jsr/detail?id=292
+
+NIO.2 (java.nio.file) (**JSR 203**): https://jcp.org/en/jsr/detail?id=203
 
 ## 16. Java 6
 
 Java 6 language specification: 
 
 API
+
 XML Digital Signatures (javax.xml.crypto.dsig) (JSR 105)
+
 Streaming API for XML 1.0 (javax.xml.stream) (JSR 173)
+
 Web Services Metadata (javax.jws) (JSR 181)
+
 Java API for XML Processing 1.3 (javax.xml.*) (JSR 206)
+
 JAXB 2.0 (javax.xml.bind) (JSR 222)
+
 Scripting for the Java Platform (javax.script) (JSR 223)
+
 XML-Based Web Services 2.0 (javax.xml.ws) (JSR 224)
+
 Common Annotations (javax.annotations) (JSR 250)
+
 Smart Card I/O (javax.smartcardio) (JSR 268)
+
 Pluggable Annotation Processing (javax.lang.model) (JSR 269)
+
 Java Activation Framework (javax.annotation) (JDK-6254474)
+
 Tools
+
 javac supports java.lang.SuppressWarnings annotation (JDK-4986256)
 
 ## 17. Java 5
