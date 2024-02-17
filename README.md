@@ -1,12 +1,4 @@
-# Java History with simple code samples
-
-## Learn Java history with simple code samples
-
-Java 21 (**LTS**): https://github.com/luiscoco/Java_21-new-features-samples/tree/main
-
-... 
-
-Next Java versions samples will be published in the following days
+# Java History
 
 ## Acronyms
 
@@ -627,3 +619,12 @@ Reflection
 ## 22. Java 1.0.
 
 Java 1.0 language specification: https://javaalmanac.io/jdk/1.0/langspec.pdf
+
+## 23. ## Learn Java history with simple code samples
+
+Java 21 (**LTS**): https://github.com/luiscoco/Java_21-new-features-samples/tree/main
+
+... 
+
+Next Java versions samples will be published in the following days
+
