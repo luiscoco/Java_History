@@ -324,43 +324,43 @@ Java 11 language specification: https://docs.oracle.com/javase/specs/jls/se11/ht
 
 ### 11.1. JVM
 
-CONSTANT_Dynamic (JEP 309):
+CONSTANT_Dynamic (**JEP 309**):
 
-Epsilon GC (JEP 318):
+Epsilon GC (**JEP 318**):
 
-ZGC (JEP 333):
+ZGC (**JEP 333**):
 
-Nest-Based Access Control (JEP 181):
+Nest-Based Access Control (**JEP 181**):
 
-Low-Overhead Heap Profiling (JEP 331):
+Low-Overhead Heap Profiling (**JEP 331**):
 
-Improve Aarch64 Intrinsics (JEP 315):
+Improve Aarch64 Intrinsics (**JEP 315**):
 
 ### 11.2. Language
 
-Local Variable Syntax for Lambda Parameters (JEP 323):
+Local Variable Syntax for Lambda Parameters (**JEP 323**):
 
 ### 11.3. API
 
-HTTP Client (JEP 321):
+HTTP Client (**JEP 321**):
 
-Java EE and CORBA removed (JEP 320):
+Java EE and CORBA removed (**JEP 320**):
 
-Unicode 10 Support (JEP 327):
+Unicode 10 Support (**JEP 327**):
 
-Nashorn JavaScript Engine deprecated (JEP 335):
+Nashorn JavaScript Engine deprecated (**JEP 335**):
 
-New Cryptographic Algorithms (JEP 324, JEP 329):
+New Cryptographic Algorithms (**JEP 324**, **JEP 329**):
 
-TLS 1.3 (JEP 332):
+TLS 1.3 (**JEP 332**):
 
 ### 11.4. Tools
 
-Single Source File Launch (JEP 330):
+Single Source File Launch (**JEP 330**):
 
-Flight Recorder (JEP 328):
+Flight Recorder (**JEP 328**):
 
-Pack200 deprecated (JEP 336):
+Pack200 deprecated (**JEP 336**):
 
 No more frames in JavaDoc (JDK-8196202):
 
@@ -370,27 +370,27 @@ Java 10 language specification: https://docs.oracle.com/javase/specs/jls/se10/ht
 
 ### 12.1. JVM
 
-Graal VM (JEP 317)
+Graal VM (**JEP 317**)
 
-GC Interface (JEP 304)
+GC Interface (**JEP 304**)
 
-Parallel Full GC for G1 (JEP 307)
+Parallel Full GC for G1 (**JEP 307**)
 
-Thread-Local Handshakes (JEP 312)
+Thread-Local Handshakes (**JEP 312**)
 
-Alternative Memory Devices (JEP 316)
+Alternative Memory Devices (**JEP 316**)
 
 ### 12.2. Language
 
-Keyword var (JEP 286, Java Almanac)
+Keyword var (**JEP 286**)
 
 ### 12.3. API
 
-Additional Unicode Language-Tag Extensions (JEP 314)
+Additional Unicode Language-Tag Extensions (**JEP 314**)
 
 ### 12.4. Tools
 
-javah Removed (JEP 313)
+javah Removed (**JEP 313**)
 
 ## 13. Java 9
 
@@ -398,33 +398,33 @@ Java 9 language specification: https://docs.oracle.com/javase/specs/jls/se9/html
 
 ### 13.1. Language
 
-Module System (JEP 261)
+Module System (**JEP 261**)
 
-Private Methods in Interfaces (JEP 213)
+Private Methods in Interfaces (**JEP 213**)
 
 ### 13.2. API
 
-HTTP/2 Client 1 (JEP 110)
+HTTP/2 Client 1 (**JEP 110**)
 
-Var Handles (JEP 193)
+Var Handles (**JEP 193**)
 
-Compact Strings (JEP 254)
+Compact Strings (**JEP 254**)
 
-Reactive Streams (JEP 266)
+Reactive Streams (**JEP 266**)
 
-Enhanced Deprecation (JEP 277)
+Enhanced Deprecation (**JEP 277**)
 
 Object.finalize() deprecated (JDK-8165641)
 
 ### 13.3. Tools
 
-jshell (JEP 222)
+jshell (**JEP 222**)
 
-Multi-Release JAR Files (JEP 238)
+Multi-Release JAR Files (**JEP 238**)
 
-Compile for Older Platform Versions (JEP 247)
+Compile for Older Platform Versions (**JEP 247**)
 
-jlink (JEP 282)
+jlink (**JEP 282**)
 
 ## 14. Java 8 (LTS)
 
@@ -432,27 +432,27 @@ Java 8 language specification: https://docs.oracle.com/javase/specs/jls/se8/html
 
 ### 14.1. JVM
 
-Remove Permanent Generation (JEP 122)
+Remove Permanent Generation (**JEP 122**)
 
 ### 14.2. Language
 
-Lambda Expressions (JSR 335)
+Lambda Expressions (**JSR 335**)
 
-Default Methods in Interfaces (JSR 335)
+Default Methods in Interfaces (**JSR 335**)
 
-Effectively Final Variables (JSR 335)
+Effectively Final Variables (**JSR 335**)
 
-Type Use Annotations (JEP 104)
+Type Use Annotations (**JEP 104**)
 
-Repeating Annotations (JEP 120)
+Repeating Annotations (**JEP 120**)
 
 ### 14.3. API
 
-Streams (java.util.stream) (JEP 107)
+Streams (java.util.stream) (**JEP 107**)
 
-Lambda APIs (java.util.function) (JEP 109)
+Lambda APIs (java.util.function) (**JEP 109**)
 
-Date Time (java.time) (JSR 310, JEP 150)
+Date Time (java.time) (**JSR 310**, **JEP 150**)
 
 ## 15. Java 7
 
