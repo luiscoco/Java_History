@@ -4,8 +4,6 @@
 
 Java 21 (**LTS**): https://github.com/luiscoco/Java_21-new-features-samples/tree/main
 
-Java 20: https://github.com/luiscoco/Java_20-new-features-samples
-
 ... 
 
 Next Java versions samples will be published in the following days
