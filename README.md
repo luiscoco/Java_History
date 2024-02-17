@@ -22,15 +22,15 @@ Prepare to Disallow the Dynamic Loading of Agents (**JEP 451**): https://openjdk
 
 ### 1.2. Language
 
-String Templates. Preview (**JEP 430**): https://openjdk.org/jeps/430
+String Templates (**JEP 430**): https://openjdk.org/jeps/430
 
 Record Patterns (**JEP 440**): https://openjdk.org/jeps/440
 
 Pattern Matching for switch (**JEP 441**): https://openjdk.org/jeps/441
 
-Unnamed Patterns and Variables. Preview (**JEP 443**): https://openjdk.org/jeps/443
+Unnamed Patterns and Variables (**JEP 443**): https://openjdk.org/jeps/443
 
-Unnamed Classes and Instance Main Methods. Preview (**JEP 445**): https://openjdk.org/jeps/445
+Unnamed Classes and Instance Main Methods (**JEP 445**): https://openjdk.org/jeps/445
 
 ### 1.3. API
 
@@ -246,45 +246,45 @@ Java 14 language specification: https://docs.oracle.com/javase/specs/jls/se14/ht
 
 ### 8.1. JVM
 
-NUMA-Aware Memory Allocation for G1 (JEP 345):
+NUMA-Aware Memory Allocation for G1 (**JEP 345**):
 
-JFR Event Streaming (JEP 349):
+JFR Event Streaming (**JEP 349**):
 
-Helpful NullPointerExceptions (JEP 358):
+Helpful NullPointerExceptions (**JEP 358**):
 
-Deprecate the Solaris and SPARC Ports (JEP 362):
+Deprecate the Solaris and SPARC Ports (**JEP 362**):
 
-Remove the Concurrent Mark Sweep (CMS) Garbage Collector (JEP 363):
+Remove the Concurrent Mark Sweep (CMS) Garbage Collector (**JEP 363**):
 
-ZGC on macOS (JEP 364):
+ZGC on macOS (**JEP 364**):
 
-ZGC on Windows (JEP 365):
+ZGC on Windows (**JEP 365**):
 
-Deprecate the ParallelScavenge + SerialOld GC Combination (JEP 366):
+Deprecate the ParallelScavenge + SerialOld GC Combination (**JEP 366**):
 
 ### 8.2. Language
 
-Switch Expressions (JEP 361):
+Switch Expressions (**JEP 361**):
 
-Records 1 (JEP 359):
+Records 1 (**JEP 359**):
 
-Text Blocks 2 (JEP 368):
+Text Blocks 2 (**JEP 368**):
 
-Pattern Matching for instanceof 1 (JEP 305)
+Pattern Matching for instanceof 1 (**JEP 305**)
 
 ### 8.3. API
 
-Non-Volatile Mapped Byte Buffers (JEP 352)
+Non-Volatile Mapped Byte Buffers (**JEP 352**)
 
-Remove the Pack200 APIs (JEP 367)
+Remove the Pack200 APIs (**JEP 367**)
 
-Foreign-Memory Access API 1 (JEP 370)
+Foreign-Memory Access API 1 (**JEP 370**)
 
 ### 8.4. Tools
 
-Remove the Pack200 Tools (JEP 367)
+Remove the Pack200 Tools (**JEP 367**)
 
-Packaging Tool 1 (JEP 343)
+Packaging Tool 1 (**JEP 343**)
 
 ## 9. Java 13
 
@@ -292,15 +292,15 @@ Java 13 language specification: https://docs.oracle.com/javase/specs/jls/se13/ht
 
 ### 9.1. JVM
 
-Dynamic CDS Archives (JEP 350):
+Dynamic CDS Archives (**JEP 350**):
 
-ZGC: Uncommit Unused Memory (JEP 351):
+ZGC: Uncommit Unused Memory (**JEP 351**):
 
 ### 9.2. Language
 
-Switch Expressions 2 (JEP 354):
+Switch Expressions 2 (**JEP 354**):
 
-Text Blocks 1 (JEP 355):
+Text Blocks 1 (**JEP 355**):
 
 ## 10. Java 12
 
@@ -308,15 +308,15 @@ Java 12 language specification:https://docs.oracle.com/javase/specs/jls/se12/htm
 
 ### 10.1. JVM
 
-Shenandoah GC (JEP 189):
+Shenandoah GC (**JEP 189**):
 
 ### 10.2. Language
 
-Switch Expressions 1 (JEP 325):
+Switch Expressions 1 (**JEP 325**):
 
 ### 10.3. API
 
-JVM Constants (JEP 334):
+JVM Constants (**JEP 334**):
 
 ## 11. Java 11 (LTS)
 
