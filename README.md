@@ -1,10 +1,14 @@
 # Java History with simple code samples
 
+## Acronyms
+
 **JEP** (**Java Enhancement Proposal**): JEPs are the primary process for proposing and standardizing changes to the Java platform
 
 **JSRs**: Java Specification Requests
 
-**NOTE**: For more info please visit these web sites:
+## Reference sites
+
+For more info please visit these web sites:
 
 https://javaalmanac.io/
 
@@ -616,3 +620,13 @@ Reflection
 
 Java 1.0 language specification: https://javaalmanac.io/jdk/1.0/langspec.pdf
 
+
+## 23. Learn Java history with simple code samples
+
+Java 21 (LTS): https://github.com/luiscoco/Java_21-new-features-samples/tree/main
+
+Java 20: 
+
+Java 19: 
+
+Java 18: 
