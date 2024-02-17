@@ -22,8 +22,6 @@ String Templates. Preview (**JEP 430**): https://openjdk.org/jeps/430
 
 Record Patterns (**JEP 440**): https://openjdk.org/jeps/440
 
-Enhance the Java programming language with record patterns to deconstruct record values. Record patterns and type patterns can be nested to enable a powerful, declarative, and composable form of data navigation and processing.
-
 Pattern Matching for switch (**JEP 441**): https://openjdk.org/jeps/441
 
 Unnamed Patterns and Variables. Preview (**JEP 443**): https://openjdk.org/jeps/443
