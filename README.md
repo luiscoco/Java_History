@@ -490,31 +490,31 @@ NIO.2 (java.nio.file) (**JSR 203**): https://jcp.org/en/jsr/detail?id=203
 
 Java 6 language specification: 
 
-API
+### 16.1. API
 
-XML Digital Signatures (javax.xml.crypto.dsig) (JSR 105)
+XML Digital Signatures (javax.xml.crypto.dsig) (**JSR 105**):
 
-Streaming API for XML 1.0 (javax.xml.stream) (JSR 173)
+Streaming API for XML 1.0 (javax.xml.stream) (**JSR 173**):
 
-Web Services Metadata (javax.jws) (JSR 181)
+Web Services Metadata (javax.jws) (**JSR 181**):
 
-Java API for XML Processing 1.3 (javax.xml.*) (JSR 206)
+Java API for XML Processing 1.3 (javax.xml.*) (**JSR 206**):
 
-JAXB 2.0 (javax.xml.bind) (JSR 222)
+JAXB 2.0 (javax.xml.bind) (**JSR 222**):
 
-Scripting for the Java Platform (javax.script) (JSR 223)
+Scripting for the Java Platform (javax.script) (**JSR 223**):
 
-XML-Based Web Services 2.0 (javax.xml.ws) (JSR 224)
+XML-Based Web Services 2.0 (javax.xml.ws) (**JSR 224**):
 
-Common Annotations (javax.annotations) (JSR 250)
+Common Annotations (javax.annotations) (**JSR 250**):
 
-Smart Card I/O (javax.smartcardio) (JSR 268)
+Smart Card I/O (javax.smartcardio) (**JSR 268**):
 
-Pluggable Annotation Processing (javax.lang.model) (JSR 269)
+Pluggable Annotation Processing (javax.lang.model) (**JSR 269**):
 
-Java Activation Framework (javax.annotation) (JDK-6254474)
+Java Activation Framework (javax.annotation) (JDK-6254474):
 
-Tools
+### 16.2. Tools
 
 javac supports java.lang.SuppressWarnings annotation (JDK-4986256)
 
@@ -524,19 +524,19 @@ Java 5 language specification:
 
 ### 17.1. Language
 
-Generics (JSR 14)
+Generics (**JSR 14**):
 
-Annotations (JSR 175)
+Annotations (**JSR 175**):
 
-Autoboxing (JSR 201)
+Autoboxing (**JSR 201**):
 
-Enums (JSR 201)
+Enums (**JSR 201**):
 
-For-each Loops (JSR 201)
+For-each Loops (JSR 201):
 
-Static Imports (JSR 201)
+Static Imports (JSR 201):
 
-Var Args (JSR 201)
+Var Args (JSR 201):
 
 ### 17.2. API
 
