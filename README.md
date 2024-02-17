@@ -8,6 +8,8 @@ For more info please visit this web site: https://javaalmanac.io/
 
 Java 21 language specification: https://docs.oracle.com/javase/specs/jls/se21/html/index.html
 
+Java 21 packages index: https://docs.oracle.com/en/java/javase/21/docs/api/allpackages-index.html
+
 ### 1.1. JVM
 
 Generational ZGC (**JEP 439**): https://openjdk.org/jeps/439
@@ -242,9 +244,17 @@ Java 6 language specification:
 
 Java 5 language specification: 
 
+## 18. Java 1.4.
 
+## 19. Java 1.3.
+
+## 20. Java 1.2.
 
 https://javaalmanac.io/jdk/1.2/langspec.pdf
+
+## 21. Java 1.1.
+
+## 22. Java 1.0.
 
 https://javaalmanac.io/jdk/1.0/langspec.pdf
 
