@@ -229,3 +229,15 @@ Java 9 language specification: https://docs.oracle.com/javase/specs/jls/se9/html
 ## 14. Java 8 (LTS)
 
 Java 8 language specification: https://docs.oracle.com/javase/specs/jls/se8/html/index.html
+
+## 14. Java 7
+
+Java 7 language specification: https://docs.oracle.com/javase/specs/jls/se7/html/index.html
+
+## 14. Java 6
+
+Java 6 language specification: https://docs.oracle.com/javase/specs/jls/se6/html/index.html
+
+## 14. Java 5
+
+Java 5 language specification: https://docs.oracle.com/javase/specs/jls/se5/html/index.html
