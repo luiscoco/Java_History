@@ -208,6 +208,40 @@ Packaging Tool (**JEP 392**): https://openjdk.org/jeps/392
 
 Java 15 language specification: https://docs.oracle.com/javase/specs/jls/se15/html/index.html
 
+### 7.1. JVM
+
+Disable and Deprecate Biased Locking (**JEP 374**): https://openjdk.org/jeps/374
+
+ZGC (**JEP 377**): https://openjdk.org/jeps/377
+
+Shenandoah GC (**JEP 379**): https://openjdk.org/jeps/379
+
+Remove the Solaris and SPARC Ports (**JEP 381**): https://openjdk.org/jeps/381
+
+### 7.2. Language
+
+Sealed Classes 1 (**JEP 360**): https://openjdk.org/jeps/360
+
+Pattern Matching for instanceof 2 (**JEP 375**): https://openjdk.org/jeps/375
+
+Text Blocks (**JEP 378**): https://openjdk.org/jeps/378
+
+Records 2 (**JEP 384**): 
+
+Local Interfaces and Enums 2 (**JEP 384**): https://openjdk.org/jeps/384
+
+### 7.3. API
+
+Edwards-Curve Digital Signature Algorithm (EdDSA) (**JEP 339**): https://openjdk.org/jeps/339
+
+Hidden Classes (**JEP 371**): https://openjdk.org/jeps/371
+
+Remove the Nashorn JavaScript Engine (**JEP 372**): https://openjdk.org/jeps/372
+
+Foreign-Memory Access API 2 (**JEP 383**): https://openjdk.org/jeps/383
+
+Deprecate RMI Activation for Removal (**JEP 385**): https://openjdk.org/jeps/385
+
 ## 8. Java 14
 
 Java 14 language specification: https://docs.oracle.com/javase/specs/jls/se14/html/index.html
