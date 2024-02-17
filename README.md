@@ -6,8 +6,6 @@ https://javaalmanac.io/
 
 https://github.com/akullpp/awesome-java
 
-![image](https://github.com/luiscoco/Java_History/assets/32194879/d0683f36-3776-4ac5-be34-99e0c8eb4b68)
-
 ## 1. Java 21 (LTS)
 
 Java 21 language specification: https://docs.oracle.com/javase/specs/jls/se21/html/index.html
