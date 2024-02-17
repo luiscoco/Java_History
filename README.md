@@ -1,6 +1,10 @@
 # Java History
 
-For more info please visit these web sites:
+**JEP** (**Java Enhancement Proposal**): JEPs are the primary process for proposing and standardizing changes to the Java platform
+
+**JSRs**: Java Specification Requests
+
+**NOTE**: For more info please visit these web sites:
 
 https://javaalmanac.io/
 
@@ -452,7 +456,7 @@ Streams (java.util.stream) (**JEP 107**): https://openjdk.org/jeps/107
 
 Lambda APIs (java.util.function) (**JEP 109**): https://openjdk.org/jeps/109
 
-Date Time (java.time) (**JSR 310**, **JEP 150**): https://openjdk.org/jeps/310, https://openjdk.org/jeps/150
+Date Time (java.time) (**JSR 310**, **JEP 150**): https://jcp.org/en/jsr/detail?id=310, https://openjdk.org/jeps/150
 
 ## 15. Java 7
 
