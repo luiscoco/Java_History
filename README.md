@@ -1,4 +1,4 @@
-# Java History
+# Java History with simple code samples
 
 **JEP** (**Java Enhancement Proposal**): JEPs are the primary process for proposing and standardizing changes to the Java platform
 
