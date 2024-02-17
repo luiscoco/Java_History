@@ -46,6 +46,8 @@ Structured Concurrency 1 (**JEP 453**): https://openjdk.org/jeps/453
 
 ## 2. Java 20 
 
+Java 20 language specification: https://docs.oracle.com/javase/specs/jls/se20/html/index.html
+
 ### 2.1. Language
 
 Record Patterns (**JEP 432**): https://openjdk.org/jeps/453
@@ -65,6 +67,8 @@ Structured Concurrency (**JEP 437**): https://openjdk.org/jeps/453
 Vector API 5 (**JEP 438**): https://openjdk.org/jeps/453
 
 ## 3. Java 19
+
+Java 19 language specification: https://docs.oracle.com/javase/specs/jls/se19/html/index.html
 
 ### 3.1. JVM
 
@@ -87,6 +91,8 @@ Vector API 4 (JEP 426):
 Structured Concurrency 1 (JEP 428):
 
 ## 4. Java 18
+
+Java 18 language specification: https://docs.oracle.com/javase/specs/jls/se18/html/index.html
 
 ### 4.1. JVM
 
@@ -115,6 +121,8 @@ Simple Web Server (JEP 408):
 Code Snippets in Java API Documentation (JEP 413):
 
 ## 5. Java 17 (LTS)
+
+Java 17 language specification: https://docs.oracle.com/javase/specs/jls/se17/html/index.html
 
 ### 5.1. JVM
 
@@ -152,6 +160,8 @@ Remove the Experimental AOT and JIT Compiler (**JEP 410**):
 
 ## 6. Java 16 
 
+Java 16 language specification: https://docs.oracle.com/javase/specs/jls/se16/html/index.html
+
 ### 6.1. JVM
 
 ZGC Concurrent Thread Processing (**JEP 376**): 
@@ -162,7 +172,7 @@ Windows/AArch64 Port (**JEP 388**):
 
 Strongly Encapsulate JDK Internals by Default (**JEP 396**):
 
-### 6.2.vLanguage
+### 6.2.Language
 
 Warnings for Value-Based Classes (**JEP 390**):
 
@@ -190,18 +200,32 @@ Packaging Tool (**JEP 392**):
 
 ## 7. Java 15
 
+Java 15 language specification: https://docs.oracle.com/javase/specs/jls/se15/html/index.html
+
 ## 8. Java 14
+
+Java 14 language specification: https://docs.oracle.com/javase/specs/jls/se14/html/index.html
 
 ## 9. Java 13
 
+Java 13 language specification: https://docs.oracle.com/javase/specs/jls/se13/html/index.html
+
 ## 10. Java 12
+
+Java 12 language specification:https://docs.oracle.com/javase/specs/jls/se12/html/index.html
 
 ## 11. Java 11 (LTS)
 
+Java 11 language specification: https://docs.oracle.com/javase/specs/jls/se11/html/index.html
+
 ## 12. Java 10
+
+Java 10 language specification: https://docs.oracle.com/javase/specs/jls/se10/html/index.html
 
 ## 13. Java 9
 
+Java 9 language specification: https://docs.oracle.com/javase/specs/jls/se9/html/index.html
+
 ## 14. Java 8 (LTS)
 
-
+Java 8 language specification: https://docs.oracle.com/javase/specs/jls/se8/html/index.html
