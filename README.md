@@ -236,11 +236,11 @@ Java 7 language specification: https://docs.oracle.com/javase/specs/jls/se7/html
 
 ## 16. Java 6
 
-Java 6 language specification: https://docs.oracle.com/javase/specs/jls/se6/html/index.html
+Java 6 language specification: 
 
 ## 17. Java 5
 
-Java 5 language specification: https://docs.oracle.com/javase/specs/jls/se5/html/index.html
+Java 5 language specification: 
 
 
 
