@@ -492,25 +492,25 @@ Java 6 language specification:
 
 ### 16.1. API
 
-XML Digital Signatures (javax.xml.crypto.dsig) (**JSR 105**):
+XML Digital Signatures (javax.xml.crypto.dsig) (**JSR 105**): https://jcp.org/en/jsr/detail?id=105
 
-Streaming API for XML 1.0 (javax.xml.stream) (**JSR 173**):
+Streaming API for XML 1.0 (javax.xml.stream) (**JSR 173**): https://jcp.org/en/jsr/detail?id=173
 
-Web Services Metadata (javax.jws) (**JSR 181**):
+Web Services Metadata (javax.jws) (**JSR 181**): https://jcp.org/en/jsr/detail?id=181
 
-Java API for XML Processing 1.3 (javax.xml.*) (**JSR 206**):
+Java API for XML Processing 1.3 (javax.xml.*) (**JSR 206**): https://jcp.org/en/jsr/detail?id=206
 
-JAXB 2.0 (javax.xml.bind) (**JSR 222**):
+JAXB 2.0 (javax.xml.bind) (**JSR 222**): https://jcp.org/en/jsr/detail?id=222
 
-Scripting for the Java Platform (javax.script) (**JSR 223**):
+Scripting for the Java Platform (javax.script) (**JSR 223**): https://jcp.org/en/jsr/detail?id=223
 
-XML-Based Web Services 2.0 (javax.xml.ws) (**JSR 224**):
+XML-Based Web Services 2.0 (javax.xml.ws) (**JSR 224**): https://jcp.org/en/jsr/detail?id=224
 
-Common Annotations (javax.annotations) (**JSR 250**):
+Common Annotations (javax.annotations) (**JSR 250**): https://jcp.org/en/jsr/detail?id=250
 
-Smart Card I/O (javax.smartcardio) (**JSR 268**):
+Smart Card I/O (javax.smartcardio) (**JSR 268**): https://jcp.org/en/jsr/detail?id=268
 
-Pluggable Annotation Processing (javax.lang.model) (**JSR 269**):
+Pluggable Annotation Processing (javax.lang.model) (**JSR 269**): https://jcp.org/en/jsr/detail?id=269
 
 Java Activation Framework (javax.annotation) (JDK-6254474):
 
@@ -524,43 +524,43 @@ Java 5 language specification:
 
 ### 17.1. Language
 
-Generics (**JSR 14**):
+Generics (**JSR 14**): https://jcp.org/en/jsr/detail?id=14
 
-Annotations (**JSR 175**):
+Annotations (**JSR 175**): https://jcp.org/en/jsr/detail?id=175
 
-Autoboxing (**JSR 201**):
+Autoboxing (**JSR 201**): https://jcp.org/en/jsr/detail?id=201
 
-Enums (**JSR 201**):
+Enums (**JSR 201**): https://jcp.org/en/jsr/detail?id=201
 
-For-each Loops (JSR 201):
+For-each Loops (**JSR 201**): https://jcp.org/en/jsr/detail?id=201
 
-Static Imports (JSR 201):
+Static Imports (**JSR 201**): https://jcp.org/en/jsr/detail?id=201
 
-Var Args (JSR 201):
+Var Args (**JSR 201**): https://jcp.org/en/jsr/detail?id=201
 
 ### 17.2. API
 
-Concurrency Utilities (java.util.concurrent) (JSR 166)
+Concurrency Utilities (java.util.concurrent) (**JSR 166**): https://jcp.org/en/jsr/detail?id=166
 
 ## 18. Java 1.4.
 
 ### 18.1. Language
 
-Keyword assert (JSR 41)
+Keyword assert (**JSR 41**): https://jcp.org/en/jsr/detail?id=41
 
 ### 18.2. API
 
-Regular Expressions (JSR 51)
+Regular Expressions (**JSR 51**): https://jcp.org/en/jsr/detail?id=51
 
-Non-blocking IO (JSR 51)
+Non-blocking IO (**JSR 51**): https://jcp.org/en/jsr/detail?id=51
 
-Logging (JSR 47)
+Logging (**JSR 47**): https://jcp.org/en/jsr/detail?id=47
 
-Preferences (JSR 10)
+Preferences (**JSR 10**): https://jcp.org/en/jsr/detail?id=10
 
-XML APIs (JSR 5)
+XML APIs (**JSR 5**): https://jcp.org/en/jsr/detail?id=5
 
-XSLT (JSR 63)
+XSLT (**JSR 63**): https://jcp.org/en/jsr/detail?id=63
 
 ## 19. Java 1.3.
 
