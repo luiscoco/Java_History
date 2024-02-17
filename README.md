@@ -246,45 +246,45 @@ Java 14 language specification: https://docs.oracle.com/javase/specs/jls/se14/ht
 
 ### 8.1. JVM
 
-NUMA-Aware Memory Allocation for G1 (**JEP 345**):
+NUMA-Aware Memory Allocation for G1 (**JEP 345**): https://openjdk.org/jeps/345
 
-JFR Event Streaming (**JEP 349**):
+JFR Event Streaming (**JEP 349**): https://openjdk.org/jeps/349
 
-Helpful NullPointerExceptions (**JEP 358**):
+Helpful NullPointerExceptions (**JEP 358**): https://openjdk.org/jeps/358
 
-Deprecate the Solaris and SPARC Ports (**JEP 362**):
+Deprecate the Solaris and SPARC Ports (**JEP 362**): https://openjdk.org/jeps/362
 
-Remove the Concurrent Mark Sweep (CMS) Garbage Collector (**JEP 363**):
+Remove the Concurrent Mark Sweep (CMS) Garbage Collector (**JEP 363**): https://openjdk.org/jeps/363
 
-ZGC on macOS (**JEP 364**):
+ZGC on macOS (**JEP 364**): https://openjdk.org/jeps/364
 
-ZGC on Windows (**JEP 365**):
+ZGC on Windows (**JEP 365**): https://openjdk.org/jeps/365
 
-Deprecate the ParallelScavenge + SerialOld GC Combination (**JEP 366**):
+Deprecate the ParallelScavenge + SerialOld GC Combination (**JEP 366**): https://openjdk.org/jeps/366
 
 ### 8.2. Language
 
-Switch Expressions (**JEP 361**):
+Switch Expressions (**JEP 361**): https://openjdk.org/jeps/361
 
-Records 1 (**JEP 359**):
+Records 1 (**JEP 359**): https://openjdk.org/jeps/359
 
-Text Blocks 2 (**JEP 368**):
+Text Blocks 2 (**JEP 368**): https://openjdk.org/jeps/368
 
-Pattern Matching for instanceof 1 (**JEP 305**)
+Pattern Matching for instanceof 1 (**JEP 305**): https://openjdk.org/jeps/305
 
 ### 8.3. API
 
-Non-Volatile Mapped Byte Buffers (**JEP 352**)
+Non-Volatile Mapped Byte Buffers (**JEP 352**): https://openjdk.org/jeps/352
 
-Remove the Pack200 APIs (**JEP 367**)
+Remove the Pack200 APIs (**JEP 367**): https://openjdk.org/jeps/367
 
-Foreign-Memory Access API 1 (**JEP 370**)
+Foreign-Memory Access API 1 (**JEP 370**): https://openjdk.org/jeps/370
 
 ### 8.4. Tools
 
-Remove the Pack200 Tools (**JEP 367**)
+Remove the Pack200 Tools (**JEP 367**): https://openjdk.org/jeps/367
 
-Packaging Tool 1 (**JEP 343**)
+Packaging Tool 1 (**JEP 343**): https://openjdk.org/jeps/343
 
 ## 9. Java 13
 
@@ -292,15 +292,15 @@ Java 13 language specification: https://docs.oracle.com/javase/specs/jls/se13/ht
 
 ### 9.1. JVM
 
-Dynamic CDS Archives (**JEP 350**):
+Dynamic CDS Archives (**JEP 350**): https://openjdk.org/jeps/350
 
-ZGC: Uncommit Unused Memory (**JEP 351**):
+ZGC: Uncommit Unused Memory (**JEP 351**): https://openjdk.org/jeps/351
 
 ### 9.2. Language
 
-Switch Expressions 2 (**JEP 354**):
+Switch Expressions 2 (**JEP 354**): https://openjdk.org/jeps/354
 
-Text Blocks 1 (**JEP 355**):
+Text Blocks 1 (**JEP 355**): https://openjdk.org/jeps/355
 
 ## 10. Java 12
 
@@ -308,15 +308,15 @@ Java 12 language specification:https://docs.oracle.com/javase/specs/jls/se12/htm
 
 ### 10.1. JVM
 
-Shenandoah GC (**JEP 189**):
+Shenandoah GC (**JEP 189**): https://openjdk.org/jeps/189
 
 ### 10.2. Language
 
-Switch Expressions 1 (**JEP 325**):
+Switch Expressions 1 (**JEP 325**): https://openjdk.org/jeps/325
 
 ### 10.3. API
 
-JVM Constants (**JEP 334**):
+JVM Constants (**JEP 334**): https://openjdk.org/jeps/334
 
 ## 11. Java 11 (LTS)
 
@@ -324,45 +324,45 @@ Java 11 language specification: https://docs.oracle.com/javase/specs/jls/se11/ht
 
 ### 11.1. JVM
 
-CONSTANT_Dynamic (**JEP 309**):
+CONSTANT_Dynamic (**JEP 309**): https://openjdk.org/jeps/309
 
-Epsilon GC (**JEP 318**):
+Epsilon GC (**JEP 318**): https://openjdk.org/jeps/318
 
-ZGC (**JEP 333**):
+ZGC (**JEP 333**): https://openjdk.org/jeps/333
 
-Nest-Based Access Control (**JEP 181**):
+Nest-Based Access Control (**JEP 181**): https://openjdk.org/jeps/181
 
-Low-Overhead Heap Profiling (**JEP 331**):
+Low-Overhead Heap Profiling (**JEP 331**): https://openjdk.org/jeps/331
 
-Improve Aarch64 Intrinsics (**JEP 315**):
+Improve Aarch64 Intrinsics (**JEP 315**): https://openjdk.org/jeps/315
 
 ### 11.2. Language
 
-Local Variable Syntax for Lambda Parameters (**JEP 323**):
+Local Variable Syntax for Lambda Parameters (**JEP 323**): https://openjdk.org/jeps/323
 
 ### 11.3. API
 
-HTTP Client (**JEP 321**):
+HTTP Client (**JEP 321**): https://openjdk.org/jeps/321
 
-Java EE and CORBA removed (**JEP 320**):
+Java EE and CORBA removed (**JEP 320**): https://openjdk.org/jeps/320
 
-Unicode 10 Support (**JEP 327**):
+Unicode 10 Support (**JEP 327**): https://openjdk.org/jeps/327
 
-Nashorn JavaScript Engine deprecated (**JEP 335**):
+Nashorn JavaScript Engine deprecated (**JEP 335**): https://openjdk.org/jeps/335
 
-New Cryptographic Algorithms (**JEP 324**, **JEP 329**):
+New Cryptographic Algorithms (**JEP 324**, **JEP 329**): https://openjdk.org/jeps/324, https://openjdk.org/jeps/329
 
-TLS 1.3 (**JEP 332**):
+TLS 1.3 (**JEP 332**): https://openjdk.org/jeps/332
 
 ### 11.4. Tools
 
-Single Source File Launch (**JEP 330**):
+Single Source File Launch (**JEP 330**): https://openjdk.org/jeps/330
 
-Flight Recorder (**JEP 328**):
+Flight Recorder (**JEP 328**): https://openjdk.org/jeps/328
 
-Pack200 deprecated (**JEP 336**):
+Pack200 deprecated (**JEP 336**): https://openjdk.org/jeps/336
 
-No more frames in JavaDoc (JDK-8196202):
+No more frames in JavaDoc (JDK-8196202)
 
 ## 12. Java 10
 
@@ -370,27 +370,27 @@ Java 10 language specification: https://docs.oracle.com/javase/specs/jls/se10/ht
 
 ### 12.1. JVM
 
-Graal VM (**JEP 317**)
+Graal VM (**JEP 317**): https://openjdk.org/jeps/317
 
-GC Interface (**JEP 304**)
+GC Interface (**JEP 304**): https://openjdk.org/jeps/304
 
-Parallel Full GC for G1 (**JEP 307**)
+Parallel Full GC for G1 (**JEP 307**): https://openjdk.org/jeps/307
 
-Thread-Local Handshakes (**JEP 312**)
+Thread-Local Handshakes (**JEP 312**): https://openjdk.org/jeps/312
 
-Alternative Memory Devices (**JEP 316**)
+Alternative Memory Devices (**JEP 316**): https://openjdk.org/jeps/316
 
 ### 12.2. Language
 
-Keyword var (**JEP 286**)
+Keyword var (**JEP 286**): https://openjdk.org/jeps/286
 
 ### 12.3. API
 
-Additional Unicode Language-Tag Extensions (**JEP 314**)
+Additional Unicode Language-Tag Extensions (**JEP 314**): https://openjdk.org/jeps/314
 
 ### 12.4. Tools
 
-javah Removed (**JEP 313**)
+javah Removed (**JEP 313**): https://openjdk.org/jeps/313
 
 ## 13. Java 9
 
@@ -398,33 +398,33 @@ Java 9 language specification: https://docs.oracle.com/javase/specs/jls/se9/html
 
 ### 13.1. Language
 
-Module System (**JEP 261**)
+Module System (**JEP 261**): https://openjdk.org/jeps/261
 
-Private Methods in Interfaces (**JEP 213**)
+Private Methods in Interfaces (**JEP 213**): https://openjdk.org/jeps/213
 
 ### 13.2. API
 
-HTTP/2 Client 1 (**JEP 110**)
+HTTP/2 Client 1 (**JEP 110**): https://openjdk.org/jeps/110
 
-Var Handles (**JEP 193**)
+Var Handles (**JEP 193**): https://openjdk.org/jeps/193
 
-Compact Strings (**JEP 254**)
+Compact Strings (**JEP 254**): https://openjdk.org/jeps/254
 
-Reactive Streams (**JEP 266**)
+Reactive Streams (**JEP 266**): https://openjdk.org/jeps/266
 
-Enhanced Deprecation (**JEP 277**)
+Enhanced Deprecation (**JEP 277**): https://openjdk.org/jeps/277
 
 Object.finalize() deprecated (JDK-8165641)
 
 ### 13.3. Tools
 
-jshell (**JEP 222**)
+jshell (**JEP 222**): https://openjdk.org/jeps/222
 
-Multi-Release JAR Files (**JEP 238**)
+Multi-Release JAR Files (**JEP 238**): https://openjdk.org/jeps/238
 
-Compile for Older Platform Versions (**JEP 247**)
+Compile for Older Platform Versions (**JEP 247**): https://openjdk.org/jeps/247
 
-jlink (**JEP 282**)
+jlink (**JEP 282**): https://openjdk.org/jeps/282
 
 ## 14. Java 8 (LTS)
 
@@ -432,13 +432,13 @@ Java 8 language specification: https://docs.oracle.com/javase/specs/jls/se8/html
 
 ### 14.1. JVM
 
-Remove Permanent Generation (**JEP 122**)
+Remove Permanent Generation (**JEP 122**): https://openjdk.org/jeps/122
 
 ### 14.2. Language
 
-Lambda Expressions (**JSR 335**)
+Lambda Expressions (**JSR 335**): https://openjdk.org/jeps/335
 
-Default Methods in Interfaces (**JSR 335**)
+Default Methods in Interfaces (**JSR 335**): 
 
 Effectively Final Variables (**JSR 335**)
 
