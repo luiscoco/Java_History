@@ -66,92 +66,127 @@ Vector API 5 (**JEP 438**): https://openjdk.org/jeps/453
 
 ## 3. Java 19
 
-JVM
+### 3.1. JVM
 
 Linux/RISC-V Port (JEP 422)
 
-Language
+### 3.2. Language
 
-Record Patterns 1. Preview (JEP 405, Java Almanac)
+Record Patterns 1 (JEP 405):
 
-Pattern Matching for switch 3. Preview (JEP 427, Java Almanac)
+Pattern Matching for switch 3 (JEP 427):
 
-API
+### 3.3. API
 
-Foreign Function & Memory API 1. Preview (JEP 424)
+Foreign Function & Memory API 1 (JEP 424):
 
-Virtual Threads 1. Preview (JEP 425, Java Almanac)
+Virtual Threads 1 (JEP 425, Java Almanac):
 
-Vector API 4. Incubator (JEP 426)
+Vector API 4 (JEP 426):
 
-Structured Concurrency 1. Incubator (JEP 428)
+Structured Concurrency 1 (JEP 428):
 
 ## 4. Java 18
 
-JVM
+### 4.1. JVM
 
-UTF-8 by Default (JEP 400)
+UTF-8 by Default (JEP 400):
 
-Language
+### 4.2. Language
 
-Pattern Matching for switch 2. Preview (JEP 420, Java Almanac)
+Pattern Matching for switch 2 (JEP 420): 
 
-API
+### 4.3. API
 
-Reimplement Core Reflection with Method Handles (JEP 416)
+Reimplement Core Reflection with Method Handles (JEP 416):
 
-Vector API 3. Incubator (JEP 417)
+Vector API 3 (JEP 417):
 
-Internet-Address Resolution SPI (JEP 418)
+Internet-Address Resolution SPI (JEP 418):
 
-Foreign Function & Memory API 2. Incubator (JEP 419)
+Foreign Function & Memory API 2 (JEP 419):
 
-Deprecate Finalization for Removal (JEP 421)
+Deprecate Finalization for Removal (JEP 421):
 
-Tools
+### 4.4. Tools
 
-Simple Web Server (JEP 408)
+Simple Web Server (JEP 408):
 
-Code Snippets in Java API Documentation (JEP 413)
+Code Snippets in Java API Documentation (JEP 413):
 
 ## 5. Java 17 (LTS)
 
-JVM
+### 5.1. JVM
 
-New macOS Rendering Pipeline (JEP 382)
+New macOS Rendering Pipeline (**JEP 382**):
 
-macOS/AArch64 Port (JEP 391)
+macOS/AArch64 Port (**JEP 391**):
 
-Strongly Encapsulate JDK Internals (JEP 403)
+Strongly Encapsulate JDK Internals (**JEP 403**):
 
-Language
+### 5.2. Language
 
-Restore Always-Strict Floating-Point Semantics (JEP 306)
+Restore Always-Strict Floating-Point Semantics (**JEP 306**):
 
-Pattern Matching for switch 1. Preview (JEP 406, Java Almanac)
+Pattern Matching for switch 1. Preview (**JEP 406**):
 
-Sealed Classes (JEP 409, Java Almanac)
+Sealed Classes (**JEP 409**):
 
-API
+### 5.3. API
 
-Enhanced Pseudo-Random Number Generators (JEP 356)
+Enhanced Pseudo-Random Number Generators (**JEP 356)**:
 
-Deprecate the Applet API for Removal (JEP 398)
+Deprecate the Applet API for Removal (**JEP 398**):
 
-Remove RMI Activation (JEP 407)
+Remove RMI Activation (**JEP 407**):
 
-Deprecate the Security Manager for Removal (JEP 411)
+Deprecate the Security Manager for Removal (**JEP 411**):
 
-Foreign Function & Memory API 1. Incubator (JEP 412)
+Foreign Function & Memory API 1 (**JEP 412**): 
 
-Vector API 2. Incubator (JEP 414)
+Vector API 2 (**JEP 414**): 
 
-Tools
+### 5.4. Tools
 
-Remove the Experimental AOT and JIT Compiler (JEP 410)
+Remove the Experimental AOT and JIT Compiler (**JEP 410**): 
 
 ## 6. Java 16 
 
+### 6.1. JVM
+
+ZGC Concurrent Thread Processing (**JEP 376**): 
+ 
+Alpine Linux Port (**JEP 386**):
+
+Windows/AArch64 Port (**JEP 388**):
+
+Strongly Encapsulate JDK Internals by Default (**JEP 396**):
+
+### 6.2.vLanguage
+
+Warnings for Value-Based Classes (**JEP 390**):
+
+Pattern Matching for instanceof (**JEP 394**):
+
+Records (**JEP 395**):
+
+Static Members in Inner Classes (**JEP 395**)
+
+Sealed Classes 2. Preview (**JEP 397**)
+
+### 6.3. API
+
+Vector API 1 (**JEP 338**):
+
+Unix-Domain Socket Channels (**JEP 380**):
+
+Foreign Linker API 1 (**JEP 389**):
+
+Foreign-Memory Access API 3 (**JEP 393**):
+
+### 6.4. Tools
+
+Packaging Tool (**JEP 392**):
 
 ## 7. Java 15
 
