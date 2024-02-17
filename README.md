@@ -462,25 +462,133 @@ Date Time (java.time) (**JSR 310**, **JEP 150**): https://jcp.org/en/jsr/detail?
 
 Java 7 language specification: https://docs.oracle.com/javase/specs/jls/se7/html/index.html
 
+JVM
+New Opcode INVOKEDYNAMIC (JSR 292)
+Language
+Switch on String (JSR 334)
+Try-with (JSR 334)
+Diamond Operator (JSR 334)
+Binary Integer Literals (JSR 334)
+Underscores in numeric literals (JSR 334)
+Multi Catch (JSR 334)
+API
+Method Handles (JSR 292)
+NIO.2 (java.nio.file) (JSR 203)
+
 ## 16. Java 6
 
 Java 6 language specification: 
+
+API
+XML Digital Signatures (javax.xml.crypto.dsig) (JSR 105)
+Streaming API for XML 1.0 (javax.xml.stream) (JSR 173)
+Web Services Metadata (javax.jws) (JSR 181)
+Java API for XML Processing 1.3 (javax.xml.*) (JSR 206)
+JAXB 2.0 (javax.xml.bind) (JSR 222)
+Scripting for the Java Platform (javax.script) (JSR 223)
+XML-Based Web Services 2.0 (javax.xml.ws) (JSR 224)
+Common Annotations (javax.annotations) (JSR 250)
+Smart Card I/O (javax.smartcardio) (JSR 268)
+Pluggable Annotation Processing (javax.lang.model) (JSR 269)
+Java Activation Framework (javax.annotation) (JDK-6254474)
+Tools
+javac supports java.lang.SuppressWarnings annotation (JDK-4986256)
 
 ## 17. Java 5
 
 Java 5 language specification: 
 
+### 17.1. Language
+
+Generics (JSR 14)
+
+Annotations (JSR 175)
+
+Autoboxing (JSR 201)
+
+Enums (JSR 201)
+
+For-each Loops (JSR 201)
+
+Static Imports (JSR 201)
+
+Var Args (JSR 201)
+
+### 17.2. API
+
+Concurrency Utilities (java.util.concurrent) (JSR 166)
+
 ## 18. Java 1.4.
+
+### 18.1. Language
+
+Keyword assert (JSR 41)
+
+### 18.2. API
+
+Regular Expressions (JSR 51)
+
+Non-blocking IO (JSR 51)
+
+Logging (JSR 47)
+
+Preferences (JSR 10)
+
+XML APIs (JSR 5)
+
+XSLT (JSR 63)
 
 ## 19. Java 1.3.
 
+### 19.1. JVM
+
+HotSpot
+
+### 19.2. API
+
+JNDI
+
+Sound
+
 ## 20. Java 1.2.
 
-https://javaalmanac.io/jdk/1.2/langspec.pdf
+Java 1.2 language specification: https://javaalmanac.io/jdk/1.2/langspec.pdf
+
+### 20.1. JVM
+
+Sun JIT
+
+### 20.2. Language
+
+Keyword strictfp
+
+API
+
+Swing
+
+Collections
 
 ## 21. Java 1.1.
 
+### 21.1. JVM
+
+JIT (on Windows only by JavaSoft)
+
+### 21.2. Language
+
+Inner Classes
+
+### 21.2. API
+
+Java Beans
+
+JDBC
+
+RMI
+
+Reflection
+
 ## 22. Java 1.0.
 
-https://javaalmanac.io/jdk/1.0/langspec.pdf
+Java 1.0 language specification: https://javaalmanac.io/jdk/1.0/langspec.pdf
 
