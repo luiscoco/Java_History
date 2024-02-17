@@ -6,6 +6,8 @@ For more info please visit this web site: https://javaalmanac.io/
 
 ## 1. Java 21
 
+https://docs.oracle.com/javase/specs/jls/se21/html/index.html
+
 ### 1.1. JVM
 
 Generational ZGC (JEP 439): https://openjdk.org/jeps/439
