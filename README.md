@@ -436,23 +436,23 @@ Remove Permanent Generation (**JEP 122**): https://openjdk.org/jeps/122
 
 ### 14.2. Language
 
-Lambda Expressions (**JSR 335**): https://openjdk.org/jeps/335
+Lambda Expressions (**JSR 335**): https://jcp.org/en/jsr/detail?id=335
 
 Default Methods in Interfaces (**JSR 335**): 
 
-Effectively Final Variables (**JSR 335**)
+Effectively Final Variables (**JSR 335**): 
 
-Type Use Annotations (**JEP 104**)
+Type Use Annotations (**JEP 104**): https://openjdk.org/jeps/104
 
-Repeating Annotations (**JEP 120**)
+Repeating Annotations (**JEP 120**): https://openjdk.org/jeps/120
 
 ### 14.3. API
 
-Streams (java.util.stream) (**JEP 107**)
+Streams (java.util.stream) (**JEP 107**): https://openjdk.org/jeps/107
 
-Lambda APIs (java.util.function) (**JEP 109**)
+Lambda APIs (java.util.function) (**JEP 109**): https://openjdk.org/jeps/109
 
-Date Time (java.time) (**JSR 310**, **JEP 150**)
+Date Time (java.time) (**JSR 310**, **JEP 150**): https://openjdk.org/jeps/310, https://openjdk.org/jeps/150
 
 ## 15. Java 7
 
