@@ -72,23 +72,23 @@ Java 19 language specification: https://docs.oracle.com/javase/specs/jls/se19/ht
 
 ### 3.1. JVM
 
-Linux/RISC-V Port (JEP 422)
+Linux/RISC-V Port (**JEP 422**): https://openjdk.org/jeps/422
 
 ### 3.2. Language
 
-Record Patterns 1 (JEP 405):
+Record Patterns 1 (**JEP 405**): https://openjdk.org/jeps/405
 
-Pattern Matching for switch 3 (JEP 427):
+Pattern Matching for switch 3 (**JEP 427**): https://openjdk.org/jeps/427
 
 ### 3.3. API
 
-Foreign Function & Memory API 1 (JEP 424):
+Foreign Function & Memory API 1 (**JEP 424**): https://openjdk.org/jeps/424
 
-Virtual Threads 1 (JEP 425, Java Almanac):
+Virtual Threads 1 (**JEP 425**): https://openjdk.org/jeps/425
 
-Vector API 4 (JEP 426):
+Vector API 4 (**JEP 426**): https://openjdk.org/jeps/426
 
-Structured Concurrency 1 (JEP 428):
+Structured Concurrency 1 (**JEP 428**): https://openjdk.org/jeps/428
 
 ## 4. Java 18
 
@@ -96,29 +96,29 @@ Java 18 language specification: https://docs.oracle.com/javase/specs/jls/se18/ht
 
 ### 4.1. JVM
 
-UTF-8 by Default (JEP 400):
+UTF-8 by Default (**JEP 400**): https://openjdk.org/jeps/400
 
 ### 4.2. Language
 
-Pattern Matching for switch 2 (JEP 420): 
+Pattern Matching for switch 2 (**JEP 420**): https://openjdk.org/jeps/420
 
 ### 4.3. API
 
-Reimplement Core Reflection with Method Handles (JEP 416):
+Reimplement Core Reflection with Method Handles (**JEP 416**): https://openjdk.org/jeps/416
 
-Vector API 3 (JEP 417):
+Vector API 3 (**JEP 417**): https://openjdk.org/jeps/417
+ 
+Internet-Address Resolution SPI (**JEP 418**): https://openjdk.org/jeps/418
 
-Internet-Address Resolution SPI (JEP 418):
+Foreign Function & Memory API 2 (**JEP 419**): https://openjdk.org/jeps/419
 
-Foreign Function & Memory API 2 (JEP 419):
-
-Deprecate Finalization for Removal (JEP 421):
+Deprecate Finalization for Removal (**JEP 421**): https://openjdk.org/jeps/421
 
 ### 4.4. Tools
 
-Simple Web Server (JEP 408):
+Simple Web Server (**JEP 408**): https://openjdk.org/jeps/408
 
-Code Snippets in Java API Documentation (JEP 413):
+Code Snippets in Java API Documentation (**JEP 413**): https://openjdk.org/jeps/413
 
 ## 5. Java 17 (LTS)
 
@@ -126,37 +126,37 @@ Java 17 language specification: https://docs.oracle.com/javase/specs/jls/se17/ht
 
 ### 5.1. JVM
 
-New macOS Rendering Pipeline (**JEP 382**):
+New macOS Rendering Pipeline (**JEP 382**): https://openjdk.org/jeps/382
 
-macOS/AArch64 Port (**JEP 391**):
+macOS/AArch64 Port (**JEP 391**): https://openjdk.org/jeps/391
 
-Strongly Encapsulate JDK Internals (**JEP 403**):
+Strongly Encapsulate JDK Internals (**JEP 403**): https://openjdk.org/jeps/403
 
 ### 5.2. Language
 
-Restore Always-Strict Floating-Point Semantics (**JEP 306**):
+Restore Always-Strict Floating-Point Semantics (**JEP 306**): https://openjdk.org/jeps/306
 
-Pattern Matching for switch 1. Preview (**JEP 406**):
+Pattern Matching for switch 1. Preview (**JEP 406**): https://openjdk.org/jeps/406
 
-Sealed Classes (**JEP 409**):
+Sealed Classes (**JEP 409**): https://openjdk.org/jeps/409
 
 ### 5.3. API
 
-Enhanced Pseudo-Random Number Generators (**JEP 356)**:
+Enhanced Pseudo-Random Number Generators (**JEP 356)**: https://openjdk.org/jeps/356
 
-Deprecate the Applet API for Removal (**JEP 398**):
+Deprecate the Applet API for Removal (**JEP 398**): https://openjdk.org/jeps/398
 
-Remove RMI Activation (**JEP 407**):
+Remove RMI Activation (**JEP 407**): https://openjdk.org/jeps/407
 
-Deprecate the Security Manager for Removal (**JEP 411**):
+Deprecate the Security Manager for Removal (**JEP 411**): https://openjdk.org/jeps/411
 
-Foreign Function & Memory API 1 (**JEP 412**): 
+Foreign Function & Memory API 1 (**JEP 412**): https://openjdk.org/jeps/412
 
-Vector API 2 (**JEP 414**): 
+Vector API 2 (**JEP 414**): https://openjdk.org/jeps/414
 
 ### 5.4. Tools
 
-Remove the Experimental AOT and JIT Compiler (**JEP 410**): 
+Remove the Experimental AOT and JIT Compiler (**JEP 410**): https://openjdk.org/jeps/410
 
 ## 6. Java 16 
 
@@ -164,25 +164,25 @@ Java 16 language specification: https://docs.oracle.com/javase/specs/jls/se16/ht
 
 ### 6.1. JVM
 
-ZGC Concurrent Thread Processing (**JEP 376**): 
+ZGC Concurrent Thread Processing (**JEP 376**): https://openjdk.org/jeps/376
  
-Alpine Linux Port (**JEP 386**):
+Alpine Linux Port (**JEP 386**): https://openjdk.org/jeps/386
 
-Windows/AArch64 Port (**JEP 388**):
+Windows/AArch64 Port (**JEP 388**):https://openjdk.org/jeps/388
 
-Strongly Encapsulate JDK Internals by Default (**JEP 396**):
+Strongly Encapsulate JDK Internals by Default (**JEP 396**): https://openjdk.org/jeps/396
 
 ### 6.2.Language
 
-Warnings for Value-Based Classes (**JEP 390**):
+Warnings for Value-Based Classes (**JEP 390**): https://openjdk.org/jeps/390
 
-Pattern Matching for instanceof (**JEP 394**):
+Pattern Matching for instanceof (**JEP 394**): https://openjdk.org/jeps/394
 
-Records (**JEP 395**):
+Records (**JEP 395**): https://openjdk.org/jeps/395
 
-Static Members in Inner Classes (**JEP 395**)
+Static Members in Inner Classes (**JEP 395**): https://openjdk.org/jeps/395
 
-Sealed Classes 2. Preview (**JEP 397**)
+Sealed Classes 2. Preview (**JEP 397**): https://openjdk.org/jeps/397
 
 ### 6.3. API
 
