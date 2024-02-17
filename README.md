@@ -6,7 +6,9 @@ Java 21 (**LTS**): https://github.com/luiscoco/Java_21-new-features-samples/tree
 
 Java 20: https://github.com/luiscoco/Java_20-new-features-samples
 
-... Next Java versions samples will be published in the following days
+... 
+
+Next Java versions samples will be published in the following days
 
 ## Acronyms
 
