@@ -22,6 +22,8 @@ String Templates. Preview (**JEP 430**): https://openjdk.org/jeps/430
 
 Record Patterns (**JEP 440**): https://openjdk.org/jeps/440
 
+Enhance the Java programming language with record patterns to deconstruct record values. Record patterns and type patterns can be nested to enable a powerful, declarative, and composable form of data navigation and processing.
+
 Pattern Matching for switch (**JEP 441**): https://openjdk.org/jeps/441
 
 Unnamed Patterns and Variables. Preview (**JEP 443**): https://openjdk.org/jeps/443
@@ -46,4 +48,20 @@ Structured Concurrency 1 (**JEP 453**): https://openjdk.org/jeps/453
 
 ## 2. Java 20 
 
+### 2.1. Language
 
+Record Patterns (**JEP 432**): https://openjdk.org/jeps/453
+
+Pattern Matching for switch (**JEP 433**): https://openjdk.org/jeps/453
+
+### 2.2. API
+
+Scoped Values (**JEP 429**): https://openjdk.org/jeps/453
+
+Foreign Function & Memory API (**JEP 434**): https://openjdk.org/jeps/453
+
+Virtual Threads (**JEP 436**): https://openjdk.org/jeps/453
+
+Structured Concurrency (**JEP 437**): https://openjdk.org/jeps/453
+
+Vector API 5 (**JEP 438**): https://openjdk.org/jeps/453
