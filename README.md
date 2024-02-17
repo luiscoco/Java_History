@@ -2,7 +2,7 @@
 
 For more info please visit this web site: https://javaalmanac.io/
 
-
+![image](https://github.com/luiscoco/Java_History/assets/32194879/d0683f36-3776-4ac5-be34-99e0c8eb4b68)
 
 ## 1. Java 21
 
