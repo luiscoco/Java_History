@@ -246,29 +246,215 @@ Deprecate RMI Activation for Removal (**JEP 385**): https://openjdk.org/jeps/385
 
 Java 14 language specification: https://docs.oracle.com/javase/specs/jls/se14/html/index.html
 
+### 8.1. JVM
+
+NUMA-Aware Memory Allocation for G1 (JEP 345):
+
+JFR Event Streaming (JEP 349):
+
+Helpful NullPointerExceptions (JEP 358):
+
+Deprecate the Solaris and SPARC Ports (JEP 362):
+
+Remove the Concurrent Mark Sweep (CMS) Garbage Collector (JEP 363):
+
+ZGC on macOS (JEP 364):
+
+ZGC on Windows (JEP 365):
+
+Deprecate the ParallelScavenge + SerialOld GC Combination (JEP 366):
+
+### 8.2. Language
+
+Switch Expressions (JEP 361):
+
+Records 1 (JEP 359):
+
+Text Blocks 2 (JEP 368):
+
+Pattern Matching for instanceof 1 (JEP 305)
+
+### 8.3. API
+
+Non-Volatile Mapped Byte Buffers (JEP 352)
+
+Remove the Pack200 APIs (JEP 367)
+
+Foreign-Memory Access API 1 (JEP 370)
+
+### 8.4. Tools
+
+Remove the Pack200 Tools (JEP 367)
+
+Packaging Tool 1 (JEP 343)
+
 ## 9. Java 13
 
 Java 13 language specification: https://docs.oracle.com/javase/specs/jls/se13/html/index.html
+
+### 9.1. JVM
+
+Dynamic CDS Archives (JEP 350):
+
+ZGC: Uncommit Unused Memory (JEP 351):
+
+### 9.2. Language
+
+Switch Expressions 2 (JEP 354):
+
+Text Blocks 1 (JEP 355):
 
 ## 10. Java 12
 
 Java 12 language specification:https://docs.oracle.com/javase/specs/jls/se12/html/index.html
 
+### 10.1. JVM
+
+Shenandoah GC (JEP 189):
+
+### 10.2. Language
+
+Switch Expressions 1 (JEP 325):
+
+### 10.3. API
+
+JVM Constants (JEP 334):
+
 ## 11. Java 11 (LTS)
 
 Java 11 language specification: https://docs.oracle.com/javase/specs/jls/se11/html/index.html
+
+### 11.1. JVM
+
+CONSTANT_Dynamic (JEP 309):
+
+Epsilon GC (JEP 318):
+
+ZGC (JEP 333):
+
+Nest-Based Access Control (JEP 181):
+
+Low-Overhead Heap Profiling (JEP 331):
+
+Improve Aarch64 Intrinsics (JEP 315):
+
+### 11.2. Language
+
+Local Variable Syntax for Lambda Parameters (JEP 323):
+
+### 11.3. API
+
+HTTP Client (JEP 321):
+
+Java EE and CORBA removed (JEP 320):
+
+Unicode 10 Support (JEP 327):
+
+Nashorn JavaScript Engine deprecated (JEP 335):
+
+New Cryptographic Algorithms (JEP 324, JEP 329):
+
+TLS 1.3 (JEP 332):
+
+### 11.4. Tools
+
+Single Source File Launch (JEP 330):
+
+Flight Recorder (JEP 328):
+
+Pack200 deprecated (JEP 336):
+
+No more frames in JavaDoc (JDK-8196202):
 
 ## 12. Java 10
 
 Java 10 language specification: https://docs.oracle.com/javase/specs/jls/se10/html/index.html
 
+### 12.1. JVM
+
+Graal VM (JEP 317)
+
+GC Interface (JEP 304)
+
+Parallel Full GC for G1 (JEP 307)
+
+Thread-Local Handshakes (JEP 312)
+
+Alternative Memory Devices (JEP 316)
+
+### 12.2. Language
+
+Keyword var (JEP 286, Java Almanac)
+
+### 12.3. API
+
+Additional Unicode Language-Tag Extensions (JEP 314)
+
+### 12.4. Tools
+
+javah Removed (JEP 313)
+
 ## 13. Java 9
 
 Java 9 language specification: https://docs.oracle.com/javase/specs/jls/se9/html/index.html
 
+### 13.1. Language
+
+Module System (JEP 261)
+
+Private Methods in Interfaces (JEP 213)
+
+### 13.2. API
+
+HTTP/2 Client 1 (JEP 110)
+
+Var Handles (JEP 193)
+
+Compact Strings (JEP 254)
+
+Reactive Streams (JEP 266)
+
+Enhanced Deprecation (JEP 277)
+
+Object.finalize() deprecated (JDK-8165641)
+
+### 13.3. Tools
+
+jshell (JEP 222)
+
+Multi-Release JAR Files (JEP 238)
+
+Compile for Older Platform Versions (JEP 247)
+
+jlink (JEP 282)
+
 ## 14. Java 8 (LTS)
 
 Java 8 language specification: https://docs.oracle.com/javase/specs/jls/se8/html/index.html
+
+### 14.1. JVM
+
+Remove Permanent Generation (JEP 122)
+
+### 14.2. Language
+
+Lambda Expressions (JSR 335)
+
+Default Methods in Interfaces (JSR 335)
+
+Effectively Final Variables (JSR 335)
+
+Type Use Annotations (JEP 104)
+
+Repeating Annotations (JEP 120)
+
+### 14.3. API
+
+Streams (java.util.stream) (JEP 107)
+
+Lambda APIs (java.util.function) (JEP 109)
+
+Date Time (java.time) (JSR 310, JEP 150)
 
 ## 15. Java 7
 
