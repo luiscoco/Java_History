@@ -1,5 +1,13 @@
 # Java History with simple code samples
 
+## Learn Java history with simple code samples
+
+Java 21 (**LTS**): https://github.com/luiscoco/Java_21-new-features-samples/tree/main
+
+Java 20: https://github.com/luiscoco/Java_20-new-features-samples
+
+... Next Java versions samples will be published in the following days
+
 ## Acronyms
 
 **JEP** (**Java Enhancement Proposal**): JEPs are the primary process for proposing and standardizing changes to the Java platform
@@ -619,53 +627,3 @@ Reflection
 ## 22. Java 1.0.
 
 Java 1.0 language specification: https://javaalmanac.io/jdk/1.0/langspec.pdf
-
-
-## 23. Learn Java history with simple code samples
-
-Java 21 (**LTS**): https://github.com/luiscoco/Java_21-new-features-samples/tree/main
-
-Java 20: 
-
-Java 19: 
-
-Java 18: 
-
-Java 17 (**LTS**): 
-
-Java 16: 
-
-Java 15: 
-
-Java 14: 
-
-Java 13: 
-
-Java 12: 
-
-Java 11 (**LTS**): 
-
-Java 10: 
-
-Java 9: 
-
-Java 8 (**LTS**):
-
-Java 7:
-
-Java 6: 
-
-Java 5: 
-
-Java 1.4: 
-
-Java 1.3: 
-
-Java 1.2: 
-
-Java 1.1: 
-
-Java 1: 
-Java 19: 
-
-Java 18: 
