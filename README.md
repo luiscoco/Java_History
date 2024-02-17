@@ -180,23 +180,23 @@ Pattern Matching for instanceof (**JEP 394**): https://openjdk.org/jeps/394
 
 Records (**JEP 395**): https://openjdk.org/jeps/395
 
-Static Members in Inner Classes (**JEP 395**): https://openjdk.org/jeps/395
+Static Members in Inner Classes
 
 Sealed Classes 2. Preview (**JEP 397**): https://openjdk.org/jeps/397
 
 ### 6.3. API
 
-Vector API 1 (**JEP 338**):
+Vector API 1 (**JEP 338**): https://openjdk.org/jeps/338
 
-Unix-Domain Socket Channels (**JEP 380**):
+Unix-Domain Socket Channels (**JEP 380**): https://openjdk.org/jeps/380
 
-Foreign Linker API 1 (**JEP 389**):
+Foreign Linker API 1 (**JEP 389**): https://openjdk.org/jeps/389
 
-Foreign-Memory Access API 3 (**JEP 393**):
+Foreign-Memory Access API 3 (**JEP 393**): https://openjdk.org/jeps/393
 
 ### 6.4. Tools
 
-Packaging Tool (**JEP 392**):
+Packaging Tool (**JEP 392**): https://openjdk.org/jeps/392
 
 ## 7. Java 15
 
