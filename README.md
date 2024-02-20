@@ -628,5 +628,7 @@ Java 20 : https://github.com/luiscoco/Java_20-new-features-samples
 
 ... 
 
+Java 8 (**LTS**) : https://github.com/luiscoco/Java_8-new-features-samples
+
 Next Java versions samples will be published in the following days
 
